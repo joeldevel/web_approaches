@@ -1,2 +1,4 @@
 # web_approaches
-Three way of serving a web page
+Three ways of serving a web page
+
+See the blog entry [here](https://devexcathedra.wordpress.com/2020/06/28/web-pages-a-few-approaches)
